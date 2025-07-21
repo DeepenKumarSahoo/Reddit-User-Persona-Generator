@@ -1,0 +1,304 @@
+
+=================================================================
+                    REDDIT USER PERSONA ANALYSIS
+=================================================================
+Generated on: 2025-07-21 12:25:06
+Profile URL: https://www.reddit.com/user/kojied
+Username: kojied
+
+=================================================================
+                          USER OVERVIEW
+=================================================================
+Username: kojied
+Total Posts: 5
+Total Comments: 95
+Average Score: 12.48
+Most Active Subreddits: AskReddit, civ5, AskNYC, ManorLords, warriors
+Activity Summary: Active user with 5 posts and 95 comments
+
+
+=================================================================
+                         DEMOGRAPHICS
+=================================================================
+
+Age Indicators:
+  • Likely young based on 'college' usage
+  • Likely adult based on 'kids' usage
+  • Likely young based on 'college' usage
+  • Likely adult based on 'work' usage
+  • Likely adult based on 'work' usage
+
+Location Indicators:
+  • Possible location: USA
+  • Possible location: New York
+  • Possible location: UK
+  • Possible location: UK
+  • Possible location: USA
+
+Occupation Indicators:
+
+Education Indicators:
+
+
+=================================================================
+                      INTERESTS & HOBBIES
+=================================================================
+
+Lifestyle:
+  • Strength: Low
+  • Evidence: ['r/foodnyc (3 posts)']
+
+
+=================================================================
+                       PERSONALITY TRAITS
+=================================================================
+
+Sentiment: Generally positive and optimistic
+
+
+=================================================================
+                     COMMUNICATION STYLE
+=================================================================
+
+Tone: Casual and informal
+
+
+=================================================================
+                    LIFESTYLE PREFERENCES
+=================================================================
+
+Fitness Oriented: Interest level: Low
+
+Food Enthusiast: Interest level: Medium
+
+Traveler: Interest level: High
+
+Homebody: Interest level: Medium
+
+
+=================================================================
+                        VALUES & BELIEFS
+=================================================================
+
+Community Oriented: Evidence of this value: 7 mentions
+
+Technology Enthusiast: Evidence of this value: 3 mentions
+
+
+=================================================================
+                       ONLINE BEHAVIOR
+=================================================================
+
+Engagement Style: More of a commenter than original poster
+
+Content Reception: Generally well-received content
+
+
+=================================================================
+                    TECHNICAL PROFICIENCY
+=================================================================
+
+Programming Languages:
+  • go
+  • rust
+
+Web Technologies:
+  • html
+
+Tools Platforms:
+  • git
+
+Concepts:
+  • ai
+
+
+=================================================================
+                      CITATIONS & EVIDENCE
+=================================================================
+
+DEMOGRAPHICS EVIDENCE:
+--------------------------------------------------
+1. Age group: young
+   Evidence: college
+   Source: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+   Type: post
+
+2. Location: USA
+   Evidence: Mentioned 'USA'
+   Source: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+   Type: post
+
+3. Location: New York
+   Evidence: Mentioned 'New York'
+   Source: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+   Type: post
+
+4. Location: UK
+   Evidence: Mentioned 'UK'
+   Source: https://reddit.com/r/FoodNYC/comments/1lc0fio/if_you_had_to_spend_one_full_day_eating_your_way/mxxhvpf/
+   Type: comment
+
+5. Age group: adult
+   Evidence: kids
+   Source: https://reddit.com/r/AskReddit/comments/1kz5a0n/do_you_think_millennials_generally_look_younger/mv2xf3q/
+   Type: comment
+
+6. Location: UK
+   Evidence: Mentioned 'UK'
+   Source: https://reddit.com/r/OnePiece/comments/1kpavbs/ive_been_ripping_on_that_part_of_zoros_backstory/mswlma6/
+   Type: comment
+
+7. Age group: young
+   Evidence: college
+   Source: https://reddit.com/r/LeopardsAteMyFace/comments/1hohsjk/rconservative_is_in_fullon_meltdown_right_now_its/m49vhkh/
+   Type: comment
+
+8. Age group: adult
+   Evidence: work
+   Source: https://reddit.com/r/warriors/comments/1h9zxoq/wife_got_courtside_box_seats_from_her_company_and/m14y4pr/
+   Type: comment
+
+9. Age group: adult
+   Evidence: work
+   Source: https://reddit.com/r/civ5/comments/1h7bmv3/flight_deity/m0jx8h5/
+   Type: comment
+
+10. Age group: adult
+   Evidence: work
+   Source: https://reddit.com/r/civ5/comments/1h61fr0/on_a_post_about_trade_tariffs/m0a6ok5/
+   Type: comment
+
+
+INTERESTS EVIDENCE:
+--------------------------------------------------
+1. Interest in lifestyle
+   Evidence: Active in r/foodnyc
+   Source: https://reddit.com/r/FoodNYC/comments/1lc0fio/if_you_had_to_spend_one_full_day_eating_your_way/mxxhvpf/
+   Type: comment
+
+2. Interest in lifestyle
+   Evidence: Active in r/foodnyc
+   Source: https://reddit.com/r/FoodNYC/comments/1h87emd/did_rakus_noodle_recipe_change/m0rzprt/
+   Type: comment
+
+3. Interest in lifestyle
+   Evidence: Active in r/foodnyc
+   Source: https://reddit.com/r/FoodNYC/comments/1h1zo4k/best_place_to_try_ny_pizza_for_a_first_timer/lzfhgsj/
+   Type: comment
+
+
+LIFESTYLE EVIDENCE:
+--------------------------------------------------
+1. fitness_oriented
+   Evidence: Mentioned 'gym'
+   Source: https://reddit.com/r/GenZ/comments/1gc4gbc/i_want_to_be_more_conventionally_attractive_you/ltr38yh/
+   Type: comment
+
+2. fitness_oriented
+   Evidence: Mentioned 'running'
+   Source: https://reddit.com/r/civ5/comments/1fw0b0w/is_the_great_library_really_not_worth_it_has_my/lqb18ti/
+   Type: comment
+
+3. food_enthusiast
+   Evidence: Mentioned 'food'
+   Source: https://reddit.com/r/ManorLords/comments/1lihry5/am_i_doing_something_wrong_with_food_management_i/mzc2uit/
+   Type: comment
+
+4. food_enthusiast
+   Evidence: Mentioned 'food'
+   Source: https://reddit.com/r/AskNYC/comments/1hh2tw3/obvious_signs_that_the_rich_has_come_to_take_ur/m2nvkr5/
+   Type: comment
+
+5. food_enthusiast
+   Evidence: Mentioned 'food'
+   Source: https://reddit.com/r/AskReddit/comments/1h8yia2/the_zombie_apocalypse_has_begun_whats_the_first/m0wmp5q/
+   Type: comment
+
+6. traveler
+   Evidence: Mentioned 'city'
+   Source: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+   Type: post
+
+7. traveler
+   Evidence: Mentioned 'city'
+   Source: https://reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/mvt4t5c/
+   Type: comment
+
+8. traveler
+   Evidence: Mentioned 'city'
+   Source: https://reddit.com/r/civ5/comments/1hp1es7/forward_settle_on_deity/m4dyqsa/
+   Type: comment
+
+9. homebody
+   Evidence: Mentioned 'home'
+   Source: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+   Type: post
+
+10. homebody
+   Evidence: Mentioned 'home'
+   Source: https://reddit.com/r/AskReddit/comments/1h8yia2/the_zombie_apocalypse_has_begun_whats_the_first/m0xvmnh/
+   Type: comment
+
+
+VALUES EVIDENCE:
+--------------------------------------------------
+1. community_oriented
+   Evidence: Discussion about 'help'
+   Source: https://reddit.com/r/ManorLords/comments/1lihry5/am_i_doing_something_wrong_with_food_management_i/mzc2uit/
+   Type: comment
+
+2. community_oriented
+   Evidence: Discussion about 'community'
+   Source: https://reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/mvt4t5c/
+   Type: comment
+
+3. technology_enthusiast
+   Evidence: Discussion about 'future'
+   Source: https://reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/
+   Type: comment
+
+4. technology_enthusiast
+   Evidence: Discussion about 'innovation'
+   Source: https://reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/mvt4t5c/
+   Type: comment
+
+
+TECHNICAL_SKILLS EVIDENCE:
+--------------------------------------------------
+1. programming_languages: go
+   Evidence: Mentioned 'go' in discussion
+   Source: https://reddit.com/r/ManorLords/comments/1lq4lst/this_is_acceptable/n1089i9/
+   Type: comment
+
+2. programming_languages: rust
+   Evidence: Mentioned 'rust' in discussion
+   Source: https://reddit.com/r/ChatGPTJailbreak/comments/1jliha3/i_cant_believe_i_made_it_do_this_note_i_do_not/mk4no36/
+   Type: comment
+
+3. web_technologies: html
+   Evidence: Mentioned 'html' in discussion
+   Source: https://reddit.com/r/GenZ/comments/1gc4gbc/i_want_to_be_more_conventionally_attractive_you/ltr38yh/
+   Type: comment
+
+4. tools_platforms: git
+   Evidence: Mentioned 'git' in discussion
+   Source: https://reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/mvt4t5c/
+   Type: comment
+
+5. concepts: ai
+   Evidence: Mentioned 'ai' in discussion
+   Source: https://reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+   Type: post
+
+
+
+=================================================================
+                         DISCLAIMER
+=================================================================
+This persona is generated based on publicly available Reddit posts 
+and comments. It represents patterns and inferences from digital 
+behavior and may not fully represent the individual's complete 
+personality or circumstances.
+
+Analysis conducted using automated text analysis methods.
+=================================================================
